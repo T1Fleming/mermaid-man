@@ -5,6 +5,7 @@ This is an example repository for mermaidjs
 
 ## Display Diagram
 
+```mermaid
 sequenceDiagram
     participant Alice
     participant Bob
@@ -16,3 +17,4 @@ sequenceDiagram
     John-->>Alice: Great!
     John->>Bob: How about you?
     Bob-->>John: Jolly good!
+```
