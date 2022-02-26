@@ -1,0 +1,22 @@
+{
+  "name": "mermaid-man",
+  "version": "1.0.0",
+  "description": "## What This is an example repository for mermaidjs",
+  "main": "subgraphGenerator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/T1Fleming/mermaid-man.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/T1Fleming/mermaid-man/issues"
+  },
+  "homepage": "https://github.com/T1Fleming/mermaid-man#readme",
+  "dependencies": {
+    "jsdom": "^19.0.0"
+  }
+}
